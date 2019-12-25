@@ -4,3 +4,6 @@
 [submodule "css4newbie"]
 	path = css4newbie
 	url = https://github.com/rayleighko/css4newbie.git
+[submodule "js4newbie"]
+	path = js4newbie
+	url = https://github.com/rayleighko/js4newbie.git
