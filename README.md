@@ -1,31 +1,31 @@
 # web4newbie
 프론트엔드 엔지니어를 위한 web 가이드
 
-- [HTML](html4newbie/)
+- [HTML](https://github.com/rayleighko/html4newbie/)
   - HTML's History
   - HTML5
 
-- [CSS](css4newbie/)
+- [CSS](https://github.com/rayleighko/css4newbie/)
   - CSS's History
   - SCSS
   - Styled Components
 
-- [Javascript](js4newbie/)
-  - ES3
-  - ES5
-  - ES6
-  - ES7
-  - ES8, ES9
-  - Server Side Javascript(Node)
+- [Javascript](https://github.com/rayleighko/js4newbie/)
+  - Introduction
+  - ECMA_Script(버전 별 키워드 정리)
+  - Data_structure(자료구조)
+  - JS_data_structure, JS를 사용한 자료구조(실습 위주)
+  - JS_Objects JS를 사용한 JS의 Object형 관리(실습 위주)
+  - 동기와 비동기, 비동기 처리 방식과 REST API
+  - 현대 js개발의 핵심인 node와 이를 활용한 웹 서버 개발 기초
+  - webpck, babel 기초
 
-- Typescript - 작성중
+- [Typescript](https://github.com/rayleighko/ts4newbie)
   - Basic
   - Interface
   - Class
   - Function
   - RxJS
-
-- Advanced Typescript - 작성중
   - Directory Structure
   - Generic
   - Enum
