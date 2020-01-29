@@ -1,5 +1,5 @@
 # web4newbie
-프론트엔드 엔지니어를 위한 web 가이드
+신입 엔지니어를 위한 web 가이드
 
 - [HTML](https://github.com/rayleighko/html4newbie/)
   - HTML's History
