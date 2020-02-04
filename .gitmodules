@@ -7,3 +7,6 @@
 [submodule "js4newbie"]
 	path = js4newbie
 	url = https://github.com/rayleighko/js4newbie.git
+[submodule "ts4newbie"]
+	path = ts4newbie
+	url = https://github.com/rayleighko/ts4newbie.git

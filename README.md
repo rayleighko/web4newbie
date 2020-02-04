@@ -2,18 +2,18 @@
 
 신입 엔지니어를 위한 web 가이드
 
-- [HTML](https://github.com/rayleighko/html4newbie/)
+- [HTML](/html4newbie/)
 
   - HTML's History
   - HTML5
 
-- [CSS](https://github.com/rayleighko/css4newbie/)
+- [CSS](/css4newbie/)
 
   - CSS's History
   - SCSS
   - Styled Components
 
-- [Javascript](https://github.com/rayleighko/js4newbie/)
+- [Javascript](/js4newbie/)
 
   - Introduction
   - ECMA_Script(버전 별 키워드 정리)
@@ -25,7 +25,7 @@
   - webpck 기초
   - babel 기초
 
-- [Typescript](https://github.com/rayleighko/ts4newbie)
+- [Typescript](/ts4newbie/README.md)
 
   - Basic
   - Interface
@@ -38,14 +38,14 @@
   - Type Inference
   - Type Compatibility
 
-- Web UI Tools - 작성중
+- [Web UI Tools - 작성중](/web_ui_tools/README.md)
 
   - React
   - Vue
   - Angular
   - State Management(Redux, MobX)
 
-- Advanced React - 작성중
+- [Advanced React - 작성중](/advanced_react/README.md)
 
   - Functional Component
   - React hooks
@@ -53,7 +53,7 @@
   - Route Masking with Next.js
   - Lazy Import(Module, Component) with Next.js
 
-- Web Browser - 작성중
+- [Web Browser - 작성중](/web_browser/README.md)
 
   - Chrome
   - Headless Chrome(Puppeteer)
@@ -61,9 +61,19 @@
   - Firefox
   - Parsing Flow
 
-- Advanced VS Code - 작성중
+- [Advanced VS Code - 작성중](advanced_vs_code/README.md)
 
   - Debug
   - Extensions
 
-- Advanced Chrome Dev tools - 작성중
+- [Advanced Chrome Dev tools - 작성중](advanced_chrome_dev_tools/README.md)
+
+  - Elements
+  - Console
+  - Source
+  - Network
+  - Performance
+  - Memory
+  - Application
+  - Security
+  - Audits
