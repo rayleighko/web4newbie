@@ -13,3 +13,6 @@
 [submodule "react4newbie"]
 	path = react4newbie
 	url = https://github.com/rayleighko/react4newbie.git
+[submodule "py4newbie"]
+	path = py4newbie
+	url = https://github.com/rayleighko/py4newbie.git
